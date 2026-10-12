@@ -10,6 +10,8 @@
     <sub>Grado en Ingeniería Matemática e Inteligencia Artificial</sub>
   </p>
 
+  <p><strong>Periodo de desarrollo: </strong>septiembre 2025 - enero 2026</p>
+
   <p>
     <a href="https://unity.com/">
       <img src="https://img.shields.io/badge/Unity-2022%2B-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Engine" />
@@ -83,5 +85,3 @@ El proyecto ha sido diseñado siguiendo una arquitectura modular dividida en cap
 
 * **Andrés Gil Vicente**
 * **Jorge Carnicero Príncipe**
-
-*Fecha de finalización: 3 de enero de 2026*
